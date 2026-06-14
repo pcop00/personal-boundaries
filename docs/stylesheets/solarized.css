@@ -68,6 +68,10 @@
   opacity: 1;
 }
 
+[data-md-color-scheme="default"] .md-search__icon {
+  color: var(--sol-base01);
+}
+
 /* ── Solarized Dark ──────────────────────────────────────── */
 [data-md-color-scheme="slate"] {
   --md-default-bg-color:           var(--sol-base03);
