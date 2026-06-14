@@ -14,8 +14,10 @@ To ensure a healthy, sustainable integration of our lives while protecting my pa
 
 - **The Supportive Presence:** My partner's role with the children is warmth and safety, not authority. She is empowered to comfort, reassure, and provide basic care — especially when I am not present — without that crossing into consequences or parenting decisions.
 - **The Hands-Off Rule:** My partner will not issue punishments, consequences, or directives to my children.
-- **Conflict Non-Intervention:** My partner will not step in or break up physical or verbal infighting between the kids. That responsibility is 100% mine.
-- **The Escalation Path:** If the kids are misbehaving when I am not in the room, my partner will log the behavior and hand it off to me to address upon return.
+- **Conflict Non-Intervention:** My partner will not step in or break up physical or verbal infighting between the kids. That responsibility is 100% mine — unless physical safety is at immediate risk.
+- **The Safety Exception:** If bodily harm is imminent and I am not present, my partner will intervene to protect the children. This is not discipline — it is basic protection, and it is always the right call.
+- **Injury Response:** If a child is injured in my absence, my partner will alert me immediately and take whatever steps are needed to handle it. She does not wait for my return to act.
+- **The Escalation Path:** For non-safety misbehavior when I am not in the room, my partner will note the behavior and hand it off to me to address upon return.
 
 ### 3.2 Personal Respect & Boundaries
 
@@ -36,6 +38,7 @@ To ensure a healthy, sustainable integration of our lives while protecting my pa
 
 | Action Required | Paul's Role | Partner's Role |
 | :---- | :---- | :---- |
+| **Imminent Danger / Injury** | Notified immediately; take over upon return. | Intervene to ensure safety, alert Paul, handle the injury. |
 | **Sibling Fighting** | Separate, debrief, issue consequences. | Observe, maintain personal safety, stay out of the fray. |
 | **Disrespect to Partner** | Step in immediately, defend partner, issue correction. | State the boundary ("Don't speak to me that way"), hand off to Paul. |
 | **Household Overwhelm** | Manage the kids' volume/chaos, support partner's exit. | Execute the Separation Protocol without guilt. |
