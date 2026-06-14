@@ -1,0 +1,58 @@
+site_name: Personal Boundary Repository
+site_url: https://pcop00.github.io/personal-boundaries/
+docs_dir: docs
+site_dir: site
+use_directory_urls: false
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light
+  font:
+    text: false
+    code: false
+  features:
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - toc.follow
+    - content.code.copy
+
+extra_css:
+  - stylesheets/solarized.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tilde
+
+nav:
+  - Home: index.md
+  - Boundaries:
+    - Co-Parenting & Personal Autonomy: co-parenting-and-personal-autonomy.md
+    - Conflict Isolation: conflict-isolation.md
+    - Disclosure & Emotional Processing: disclosure-and-emotional-processing.md
+    - Information Capping & Relationship Heartbeats: information-capping-and-relationship-heartbeats.md
+    - Information Disclosure (Extended Family): information-disclosure-extended-family.md
+    - Internal Resource Audit: internal-resource-audit.md
+    - Physical Integrity & Interactive Play: physical-integrity-and-interactive-play.md
+    - Request Management & Response Policy: request-management-and-response-policy.md
+    - Role Definition & Domestic Integration: role-definition-and-domestic-integration.md
+  - Summary: summary.md
+  - About:
+    - Style Guide: about/style-guide.md
+
+extra:
+  generator: false
