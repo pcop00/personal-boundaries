@@ -40,6 +40,6 @@ My default setting is to prioritize external needs to keep the peace. This leads
 id: BND-CORE-006
 status: Active
 severity: Critical
-review_frequency: Weekly (Sunday Review)
+review_frequency: Monthly
 scope: Internal / Self-Management
 ```
