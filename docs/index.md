@@ -9,5 +9,5 @@
 - **[Information Disclosure](information-disclosure-extended-family.md):** I provide factual, logistical updates on the divorce process, but discussions regarding moral, theological, or personal causes are off-limits.
 - **[Conflict Isolation](conflict-isolation.md):** I will not participate in elevated tones or verbal conflict within earshot of the children, moving high-friction topics to a later, private time or digital channel.
 - **[Physical Integrity](physical-integrity-and-interactive-play.md):** Physical contact is reserved for fun and play, and I will not be a target for physical touch motivated by frustration or anger.
-- **[Disclosure & Heartbeat](information-capping-and-relationship-heartbeats.md):** Divorce updates are limited to one concise report per day, allowing for a 24-hour "observation only" period for hard shares while prioritizing regular emotional assurance.
+- **[Disclosure & Heartbeat](information-capping-and-relationship-heartbeats.md):** During major life events, updates are capped to one concise daily report so the situation doesn't consume the relationship; emotional assurance remains unlimited and always the priority.
 - **[Internal Resource Audit](internal-resource-audit.md):** I maintain a 20% energy buffer for my well-being and do not accept new commitments when my internal "tank" is low.
