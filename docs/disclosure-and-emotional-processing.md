@@ -2,7 +2,7 @@
 
 ## 1. The Line
 
-**When I disclose difficult information regarding my divorce or family of origin, there is a mandatory 24-hour "Observation Period" where no advice, critiques, or "fix-it" suggestions are to be offered.**
+**When I disclose difficult information regarding my divorce or family of origin and invoke the 24-hour rule, I am asking for a window of active listening only — no advice, critiques, or "fix-it" responses until that window closes.**
 
 ## 2. Rationale
 
