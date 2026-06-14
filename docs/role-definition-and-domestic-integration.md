@@ -44,7 +44,7 @@ To ensure a healthy, sustainable integration of our lives while protecting my pa
 | **Household Overwhelm** | Manage the kids' volume/chaos, support partner's exit. | Execute the Separation Protocol without guilt. |
 
 !!! warning "Internal Enforcement"
-    If I find myself hoping she will "take over" parenting tasks, or get frustrated when she steps away to preserve her sanity, that is a System Alert. I am attempting to offload my parental responsibilities onto her. I must immediately course-correct and re-assume 100% of the disciplinary load.
+    If I find myself hoping she will "take over" parenting tasks, or get frustrated when she steps away to preserve her sanity, that is a System Alert. I am attempting to offload my parental responsibilities onto her. I must immediately course-correct and re-assume 100% of the disciplinary load — and share what I'm feeling so we can solve it together. The underlying need may be something she can genuinely support: more personal time, help with other household load, or simply being heard. Course correction is not a solo action.
 
 ## Metadata
 
