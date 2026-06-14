@@ -1,6 +1,6 @@
 # PBR Quick Reference
 
-*A version-controlled system for personal conduct, interpersonal expectations, and self-preservation through a significant life transition.*
+*A version-controlled system for personal conduct, interpersonal expectations, and self-preservation through a significant life transition. See the [Rationale](about/rationale.md) for full context on why this exists and how it works.*
 
 - **[Request Management & Response / SLA](request-management-and-response-policy.md):** I utilize a mandatory 24-hour buffer for all non-emergency decisions to ensure my responses align with my actual capacity and priorities.
 - **[Role Definition & Domestic Integration](role-definition-and-domestic-integration.md):** My partner is an allied, independent adult in our home — not a disciplinary figure; parenting responsibilities remain entirely mine, and her right to disengage from household chaos is non-negotiable.
