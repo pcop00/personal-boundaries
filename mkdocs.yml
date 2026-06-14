@@ -41,6 +41,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Boundaries:
+    - Request Management & Response Policy: request-management-and-response-policy.md
+    - Role Definition & Domestic Integration: role-definition-and-domestic-integration.md
     - Co-Parenting & Personal Autonomy: co-parenting-and-personal-autonomy.md
     - Conflict Isolation: conflict-isolation.md
     - Disclosure & Emotional Processing: disclosure-and-emotional-processing.md
@@ -48,8 +50,6 @@ nav:
     - Information Disclosure (Extended Family): information-disclosure-extended-family.md
     - Internal Resource Audit: internal-resource-audit.md
     - Physical Integrity & Interactive Play: physical-integrity-and-interactive-play.md
-    - Request Management & Response Policy: request-management-and-response-policy.md
-    - Role Definition & Domestic Integration: role-definition-and-domestic-integration.md
   - About:
     - Rationale: about/rationale.md
     - Style Guide: about/style-guide.md
