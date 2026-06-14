@@ -2,7 +2,7 @@
 
 ## 1. The Line
 
-**Our relationship is strictly a co-parenting partnership; I am no longer a provider of proactive personal, logistical, or emotional support for your individual life.**
+**What exists now is a co-parenting partnership, defined strictly by the children's welfare. I am no longer a provider of proactive personal, logistical, or emotional support.**
 
 ## 2. Rationale
 
@@ -32,4 +32,5 @@ status: Active
 severity: High
 review_frequency: Event-Driven (Legal Milestones)
 scope: Relational / Post-Divorce
+audience: Co-Parent
 ```
