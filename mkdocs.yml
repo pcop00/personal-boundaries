@@ -50,8 +50,8 @@ nav:
     - Physical Integrity & Interactive Play: physical-integrity-and-interactive-play.md
     - Request Management & Response Policy: request-management-and-response-policy.md
     - Role Definition & Domestic Integration: role-definition-and-domestic-integration.md
-  - Summary: summary.md
   - About:
+    - Rationale: about/rationale.md
     - Style Guide: about/style-guide.md
 
 extra:

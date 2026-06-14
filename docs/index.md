@@ -1,5 +1,7 @@
 # PBR Quick Reference
 
+*A version-controlled system for personal conduct, interpersonal expectations, and self-preservation through a significant life transition.*
+
 - **[Co-Parenting & Autonomy](co-parenting-and-personal-autonomy.md):** Our relationship is now a co-parenting partnership focused on the children, and I am stepping back from providing proactive personal or emotional support.
 - **[Information Disclosure](information-disclosure-extended-family.md):** I provide factual, logistical updates on the divorce process, but discussions regarding moral, theological, or personal causes are off-limits.
 - **[Request Management & Response / SLA](request-management-and-response-policy.md):** I utilize a mandatory 24-hour buffer for all non-emergency decisions to ensure my responses align with my actual capacity and priorities.
