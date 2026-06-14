@@ -2,7 +2,7 @@
 
 ## 1. The Line
 
-**My partner functions as an allied, independent adult in our home, not as a disciplinary figure or referee for my children.**
+**My partner functions as an allied, independent adult in our home — a presence of safety and support for the children, not an authority figure who issues discipline or makes parenting decisions.**
 
 ## 2. Rationale
 
@@ -12,6 +12,7 @@ To ensure a healthy, sustainable integration of our lives while protecting my pa
 
 ### 3.1 Discipline & Conflict
 
+- **The Supportive Presence:** My partner's role with the children is warmth and safety, not authority. She is empowered to comfort, reassure, and provide basic care — especially when I am not present — without that crossing into consequences or parenting decisions.
 - **The Hands-Off Rule:** My partner will not issue punishments, consequences, or directives to my children.
 - **Conflict Non-Intervention:** My partner will not step in or break up physical or verbal infighting between the kids. That responsibility is 100% mine.
 - **The Escalation Path:** If the kids are misbehaving when I am not in the room, my partner will log the behavior and hand it off to me to address upon return.
