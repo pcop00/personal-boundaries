@@ -10,4 +10,5 @@
 - **[Information Disclosure](information-disclosure-extended-family.md):** I provide factual, logistical updates on the divorce process, but discussions regarding moral, theological, or personal causes are off-limits.
 - **[Conflict Isolation](conflict-isolation.md):** I will not participate in elevated tones or verbal conflict within earshot of the children, moving high-friction topics to a later, private time or digital channel.
 - **[Disclosure & Heartbeat](information-capping-and-relationship-heartbeats.md):** During major life events, updates are capped to one concise daily report so the situation doesn't consume the relationship; emotional assurance remains unlimited and always the priority.
+- **[Acts of Service](acts-of-service-integrity.md):** Service is a chosen act of love, not a social reflex; I will distinguish between what I freely offer and what is asked simply because I am expected to say yes.
 - **[Internal Resource Audit](internal-resource-audit.md):** I maintain a 20% energy buffer for my well-being and do not accept new commitments when my internal "tank" is low.
