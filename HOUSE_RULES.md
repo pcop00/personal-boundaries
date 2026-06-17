@@ -75,7 +75,7 @@ If something ever does spill over in front of you, that is on the adults — not
 
 ## 8. Mom and Dad Are Still a Team — For You
 
-Your mom and I are not together anymore. That does not change that we are both 100% your parents, and that we will always work together on anything that involves your well-being. You don't have to pick sides. You don't have to carry messages between us. You don't need to worry about whether we're coordinating — that is our responsibility, not yours.
+Both of your parents are fully in your corner, and that will not change. When it comes to your well-being, your mom and I work together — full stop. You don't have to pick sides. You don't have to carry messages between us. You don't need to worry about whether we're coordinating — that is our responsibility, not yours.
 
 ---
 
