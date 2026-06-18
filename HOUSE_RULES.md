@@ -39,15 +39,11 @@ This is about treating the people around you fairly. Everyone in this house — 
 
 ## 4. My Partner's Role in This House
 
-My partner is not your authority figure. She is not going to ground you, issue punishments, or overrule my parenting decisions. Her role is to be a safe, warm presence in our home — someone you can trust and feel comfortable around.
-
-You are not required to treat her as a parent, but you are absolutely required to treat her with basic human respect. Yelling at her, telling her to shut up, or being openly disrespectful crosses the same line as it would with any adult.
-
-If she steps away to recharge when the house is loud and chaotic, that's healthy self-care — not rejection. Let her have that without comment.
-
-If there's ever a genuine emergency and I'm not around, she will step in to make sure you're safe. That is not her overstepping — that's her being a responsible adult who cares about you.
-
-She may also help with driving, pick-up, drop-off, or errands when her schedule allows. That's her choice to offer — not something to expect or assume.
+- She is not your authority figure — she will not ground you, issue punishments, or overrule my parenting decisions. Her role is to be a safe, warm presence in our home.
+- You are not required to treat her as a parent, but you are absolutely required to treat her with basic human respect. Yelling at her, telling her to shut up, or being openly disrespectful crosses the same line as it would with any adult.
+- If she steps away to recharge when the house is loud and chaotic, that's healthy self-care — not rejection. Let her have that without comment.
+- If there's ever a genuine emergency and I'm not around, she will step in to make sure you're safe. That is not her overstepping — that's her being a responsible adult who cares about you.
+- She may also help with driving, pick-up, drop-off, or errands when her schedule allows. That's her choice to offer — not something to expect or assume.
 
 ---
 
