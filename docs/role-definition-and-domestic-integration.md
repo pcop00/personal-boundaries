@@ -28,6 +28,12 @@ To ensure a healthy, sustainable integration of our lives while protecting my pa
 
 - **Preserving the "Self":** Joining our lives does not mean absorbing her identity. My partner is encouraged to maintain her independent hobbies, friendships, and solo routines without guilt or pressure to conform to a "traditional stepmom" mold.
 
+### 3.4 Logistical Support
+
+- **An Offered Resource, Not an Obligation:** My partner may, at her discretion, serve as a logistical resource for either household — driving, school pick-up/drop-off, errands, or other time-sensitive tasks. This is a voluntary extension of care, not a standing expectation.
+- **Schedule Governs:** Any request for logistical help is subject to her availability. A "no" or "not today" requires no explanation and carries no weight against her in any direction.
+- **The Ask, Not the Assumption:** Either parent may ask. Neither parent should assume. If logistics need to be counted on, they need to be confirmed — not presumed.
+
 ## 4. Communication (Signals)
 
 - **[SIGNAL - Hand-off]:** *(Partner to Kids)* "I'm not going to argue with you about this. Your dad will handle it when he gets back."

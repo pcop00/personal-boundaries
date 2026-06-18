@@ -47,6 +47,8 @@ If she steps away to recharge when the house is loud and chaotic, that's healthy
 
 If there's ever a genuine emergency and I'm not around, she will step in to make sure you're safe. That is not her overstepping — that's her being a responsible adult who cares about you.
 
+She may also help with driving, pick-up, drop-off, or errands when her schedule allows. That's her choice to offer — not something to expect or assume.
+
 ---
 
 ## 5. Physical Contact Is for Play, Not Anger
