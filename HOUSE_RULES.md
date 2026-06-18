@@ -4,7 +4,7 @@ These are the rules for our house. Not a list of punishments — more like an ho
 
 ---
 
-## 1. Basic Decency — No Yelling, No "Shut Up"
+## 1. Basic Human Dignity
 
 We don't yell at each other. We don't tell each other to shut up. We don't dismiss each other with contempt when we're frustrated. This applies to everyone in the house, in every direction.
 
@@ -21,15 +21,23 @@ That word can come from anyone — including you. It cannot be dismissed or argu
 
 ---
 
-## 2. Physical Contact Is for Play, Not Anger
+## 2. When You Ask Me Something Big, Give Me Time to Answer
 
-Rough-housing, wrestling, and play-fighting are part of how we connect and that's a good thing. The rule is simple: the moment it shifts from fun to frustration, the game ends immediately.
+When you want permission for something, a schedule change, or anything that requires an actual decision — ask me. But don't expect an answer in the next ten seconds. I'll think about it and come back to you.
 
-Hitting or shoving out of anger is not acceptable — regardless of how tough you think I am or how hard you think you can hit. The rule is about *why* you're touching, not *how hard*. If you're angry, use words or walk away. The game can start again when everyone has cooled down.
+If you push for an immediate yes or no, the answer will be no by default. Not to be difficult — it's just that a rushed answer from me is almost always worse than a considered one. Give me room to think and you'll get a better response.
 
 ---
 
-## 3. My Partner's Role in This House
+## 3. Pull Your Own Weight
+
+Don't ask someone else to do something you can easily do yourself. If you're on the couch, fully capable of getting your own glass of water, get it. If you're asking someone to do something *because you know they'll say yes*, that's not a good enough reason to ask.
+
+This is about treating the people around you fairly. Everyone in this house — including me — carries their share.
+
+---
+
+## 4. My Partner's Role in This House
 
 My partner is not your authority figure. She is not going to ground you, issue punishments, or overrule my parenting decisions. Her role is to be a safe, warm presence in our home — someone you can trust and feel comfortable around.
 
@@ -41,19 +49,11 @@ If there's ever a genuine emergency and I'm not around, she will step in to make
 
 ---
 
-## 4. Pull Your Own Weight
+## 5. Physical Contact Is for Play, Not Anger
 
-Don't ask someone else to do something you can easily do yourself. If you're on the couch, fully capable of getting your own glass of water, get it. If you're asking someone to do something *because you know they'll say yes*, that's not a good enough reason to ask.
+Rough-housing, wrestling, and play-fighting are part of how we connect and that's a good thing. The rule is simple: the moment it shifts from fun to frustration, the game ends immediately.
 
-This is about treating the people around you fairly. Everyone in this house — including me — carries their share.
-
----
-
-## 5. When You Ask Me Something Big, Give Me Time to Answer
-
-When you want permission for something, a schedule change, or anything that requires an actual decision — ask me. But don't expect an answer in the next ten seconds. I'll think about it and come back to you.
-
-If you push for an immediate yes or no, the answer will be no by default. Not to be difficult — it's just that a rushed answer from me is almost always worse than a considered one. Give me room to think and you'll get a better response.
+Hitting or shoving out of anger is not acceptable — regardless of how tough you think I am or how hard you think you can hit. The rule is about *why* you're touching, not *how hard*. If you're angry, use words or walk away. The game can start again when everyone has cooled down.
 
 ---
 
