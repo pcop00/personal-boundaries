@@ -21,7 +21,7 @@ That word can come from anyone — including you. It cannot be dismissed or argu
 
 ---
 
-## 2. When You Ask Me Something Big, Give Me Time to Answer
+## 2. Give Me Time to Answer
 
 When you want permission for something, a schedule change, or anything that requires an actual decision — ask me. But don't expect an answer in the next ten seconds. I'll think about it and come back to you.
 
