@@ -17,8 +17,9 @@ Each party faces the issues from opposite sides. Every problem becomes a negotia
 The second is a team model:
 
 ```
-Me ————————————— You
-       \     /
+Me —— coParents —— You
+  \                /
+   \              /
        [issues]
 ```
 
