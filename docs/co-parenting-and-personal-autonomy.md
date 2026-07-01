@@ -17,10 +17,9 @@ Each party faces the issues from opposite sides. Every problem becomes a negotia
 The second is a team model:
 
 ```
-Me ———————————— You
-  \                        /
-   \                      /
-    [parenting issues]
+Me ————————————— You
+       \     /
+       [issues]
 ```
 
 We face the issues together, from the same side. The children's welfare is the shared objective — not a bargaining chip, not a battlefield.
