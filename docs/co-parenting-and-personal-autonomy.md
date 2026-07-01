@@ -4,6 +4,29 @@
 
 **What exists now is a co-parenting partnership, defined strictly by the children's welfare. I am no longer a provider of proactive personal, logistical, or emotional support.**
 
+### The Model
+
+There are two ways to frame a co-parenting relationship. The first is adversarial:
+
+```
+Me  ——→  [issues]  ←——  You
+```
+
+Each party faces the issues from opposite sides. Every problem becomes a negotiation between opponents.
+
+The second is a team model:
+
+```
+Me ———————————— You
+  \                        /
+   \                      /
+    [parenting issues]
+```
+
+We face the issues together, from the same side. The children's welfare is the shared objective — not a bargaining chip, not a battlefield.
+
+**This boundary is built on the team model. The relationship between us changed. The team did not.**
+
 ## 2. Rationale
 
 The decision to divorce necessitates a redistribution of internal resources. To ensure the stability of the children and my own mental health, I must prioritize self-care and individual autonomy over traditional marital habits of service.
